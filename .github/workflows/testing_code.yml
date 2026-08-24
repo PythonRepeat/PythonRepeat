@@ -52,4 +52,3 @@ jobs:
           source .venv/bin/activate
           isort .
           flake8 .
-
