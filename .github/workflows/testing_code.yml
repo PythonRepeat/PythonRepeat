@@ -53,3 +53,4 @@ jobs:
           isort .
           flake8 .
           pytest .
+
